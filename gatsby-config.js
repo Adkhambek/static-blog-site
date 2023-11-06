@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `My Blog Site`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Adham Muzaffarov`,
+      summary: `who lives and works in Uzbekistan building useful things.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `A starter blog`,
+    siteUrl: `https://main--ornate-mooncake-365cff.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `adham`,
     },
   },
   plugins: [
